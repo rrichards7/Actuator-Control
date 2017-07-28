@@ -2,7 +2,7 @@
 
 *Lead Architect: Ryan J. Richards*
 
-Actuator Control LabVIEW Code
+*The Pennsylvania State University - School of Electrical Engineering and Computer Science*
 
 ## Introduction/Methodology ##
 
