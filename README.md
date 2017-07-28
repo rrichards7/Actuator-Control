@@ -29,9 +29,16 @@ The actuator setup utilizes a motor shield [1] that attaches to the ArduinoMEGA.
 
 (3) connect the **M1-** jack to the negative terminal of the actuator
 
-(4) attach the **Motor Shield** to the ArduinoMEGA - ensuring that the setup matches the picture below:
+(4) attach the **Motor Shield** to the ArduinoMEGA - ensuring that the setup matches the pictures below:
+
+![img_0128](https://user-images.githubusercontent.com/23239868/28725167-a88e1aa4-738a-11e7-8b86-28be78fe1ba5.JPG)
+![img_0129](https://user-images.githubusercontent.com/23239868/28725170-ad3fc318-738a-11e7-912f-3abe2e052944.JPG)
 
 ## LabVIEW Code ##
+
+
+## Mounting to Snowmobile ##
+
 
 
 
