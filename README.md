@@ -37,12 +37,37 @@ The actuator setup utilizes a motor shield [1] that attaches to the ArduinoMEGA.
 
 ## LabVIEW Code ##
 
+This LabVIEW code exemplifies the basic control system for the actuator using the motor shield. The code used in the SnowDrone main VI uses this setup but separates the configuration slightly to accomodate the message-based architecture.
+
+![1](https://user-images.githubusercontent.com/23239868/28725418-5beff22a-738b-11e7-8d97-a1336910b6be.PNG)
+
+*Setup and execution:*
+
+(1) set the **PWM Channel** to **9**
+
+(2) set the **IN1 Channel** to **8**
+
+(3) set the **IN2 Channel** to **11**
+
+(4) set the **Duty Cycle** to **1**
+
+(5) set the **Serial Port** to the COM port of the ArduinoMEGA
+
+(6) Run the VI and press either the **Extend** or **Retract** button - the actuator will then extend/retract accordingly
+
+(7) Press the **Stop** button when done (rather than aborting execution - this ensures that the Arduino connection is closed)
+
+![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/23239868/28726149-1250643a-738e-11e7-95fb-263cadb7c8f7.gif)
 
 
 ## Mounting to Snowmobile ##
 
+steering wheel vs underneath
 
 
+
+
+## Future Considerations
 
 ## Results ##
 
