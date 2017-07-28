@@ -33,11 +33,13 @@ The actuator setup utilizes a motor shield [1] that attaches to the ArduinoMEGA.
 
 (4) attach the **Motor Shield** to the ArduinoMEGA - ensuring that the setup matches the pictures below:
 
-<img src="https://user-images.githubusercontent.com/23239868/28728898-6492a41a-7398-11e7-8007-14e0d4cbf834.JPG" height="480" width="640">
-
 <img src="https://user-images.githubusercontent.com/23239868/28725167-a88e1aa4-738a-11e7-8b86-28be78fe1ba5.JPG" height="480" width="640">
 
 <img src="https://user-images.githubusercontent.com/23239868/28725170-ad3fc318-738a-11e7-912f-3abe2e052944.JPG" height="480" width="640">
+
+The final setup should look like this:
+
+<img src="https://user-images.githubusercontent.com/23239868/28728949-9b4914b2-7398-11e7-8573-9b2260107602.JPG" height="480" width="640">
 
 ## LabVIEW Code ##
 
