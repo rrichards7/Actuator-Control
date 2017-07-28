@@ -58,6 +58,7 @@ This LabVIEW code exemplifies the basic control system for the actuator using th
 (7) Press the **Stop** button when done (rather than aborting execution - this ensures that the Arduino connection is closed)
 
 ![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/23239868/28726149-1250643a-738e-11e7-95fb-263cadb7c8f7.gif)
+![3](https://user-images.githubusercontent.com/23239868/28726269-8f527d92-738e-11e7-90de-68a0fc8a6cfe.PNG)
 
 
 ## Mounting to Snowmobile ##
