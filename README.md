@@ -75,7 +75,15 @@ The 2015 PSU SnowDrone team sought to mount the actuator on a metal apparatus (w
 
 The 2017 PSU SnowDrone team sought to mount the actuator to the bottom of the snowmobile - one end connecting to the front sled steering connection itself while the other end connects to some fixed point on the snowmobile. This proved to be a hard but (semi) achievable task.
 
+Propsed connection steps:
 
+(1) connect the moveable end of the actuator to the right-sled steering base
+
+<img src="https://user-images.githubusercontent.com/23239868/28729155-6f0f0ee6-7399-11e7-9977-90c3a2e7253a.JPG" height="480" width="640">
+
+(2) connect the fixed end of the actuator to bolt openning on the base of the snowmobile
+
+<img src="(https://user-images.githubusercontent.com/23239868/28729334-1faa4248-739a-11e7-972e-6ab14b889610.JPG" height="480" width="640">
 
 
 ## Future Considerations ##
