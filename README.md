@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/23239868/28728329-3dc1609e-7396-11e7-910b-6be87048d7d8.png" height="50" width="150">
 # Linear Actuator Control with Arduino/LabVIEW
 
 *Lead Architect: Ryan J. Richards*
