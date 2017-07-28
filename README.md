@@ -83,14 +83,17 @@ Propsed connection steps:
 
 (2) connect the fixed end of the actuator to bolt openning on the base of the snowmobile
 
-<img src="(https://user-images.githubusercontent.com/23239868/28729334-1faa4248-739a-11e7-972e-6ab14b889610.JPG" height="480" width="640">
+<img src="https://user-images.githubusercontent.com/23239868/28729334-1faa4248-739a-11e7-972e-6ab14b889610.JPG" height="480" width="640">
 
+<img src="https://user-images.githubusercontent.com/23239868/28729378-422f7ce8-739a-11e7-9463-ea7f0e1efdbb.JPG" height="480" width="640">
+
+**Note:** The fixed-point mounting is highly susceptible to movement and is not entirely secure - therefore a mounting reinforcement piece must be designed. The piece must attach to a stable location/set of points and be large enough to extend to the mounting point of interest.
 
 ## Future Considerations ##
 
-new motor shield to support larger current pull
+(1) A new motor shield must be purchased since the power draw of the actuator is too large for the current motor shield and therefore will be severely limited in its pushing/pulling capabilities. The optimal choice for a new motor shield is: -----
 
-
+(2) New mounting point for fixed side of actuator that will be secure enough to withstand the force of the actuator. 
 
 ## Appendix ##
 
