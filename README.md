@@ -98,3 +98,7 @@ Propsed connection steps:
 ## Appendix ##
 
 [1] [Motor shield information](http://wiki.seeedstudio.com/wiki/Motor_Shield_V1.0)
+
+[2] [Linear Actuator Website](http://www.thomsonlinear.com/website/com/eng/products/actuators/electrak_2.php)
+
+[3] [Linear Actuator manual](http://www.thomsonlinear.com/downloads/actuators/Electrak_2_Installation_Manual_mnen.pdf)
