@@ -6,7 +6,7 @@ Actuator Control LabVIEW Code
 
 ## Introduction/Methodology ##
 
-PWM over relay
+The linear actuator is used to control the steering angle of the snowmobile. A motor shield (attached to the main ArduinoMEGA) serves as a programmable switch between the Arduino and the actuator. Although a relay would be the simplest way to control the actuator, the actuator must be constantly switched on/off and move in different directions. Switching a relay too often significantly lowers the lifespan of the device. However, by using a motor shield with the Arduino, **Pulse Width Modulation** (PWM) can be used - which can be constantly switched without worry *and* has the programmatical ability to reverse the polarity of the power supplied to the actuator (which gives makes it either *extend* or *retract*).
 
 
 ## MakerHub LINX ##
