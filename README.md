@@ -68,9 +68,9 @@ steering wheel vs underneath
 
 
 
-## Future Considerations
+## Future Considerations ##
 
-## Results ##
+new motor shield to support larger current pull
 
 
 
