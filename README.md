@@ -90,7 +90,7 @@ Propsed connection steps:
 
 ## Future Considerations ##
 
-(1) A new motor shield must be purchased since the power draw of the actuator is too large for the current motor shield and therefore will be severely limited in its pushing/pulling capabilities. The optimal choice for a new motor shield is: [Shield](http://www.robotshop.com/en/cytron-13a-5-30v-single-dc-motor-controller.html?gclid=Cj0KEQjwp83KBRC2kev0tZzExLkBEiQAYxYXOmDaUy6lrEfq9bI1T6IngxlDPSZxJNhCfEeRGubCiE4aAh5U8P8HAQ#productsReviewBoxTitle)
+(1) A new motor shield must be purchased since the power draw of the actuator is too large for the current motor shield and therefore will be severely limited in its pushing/pulling capabilities. The optimal choice for a new motor shield is: [Motor Controller](http://www.robotshop.com/en/cytron-13a-5-30v-single-dc-motor-controller.html?gclid=Cj0KEQjwp83KBRC2kev0tZzExLkBEiQAYxYXOmDaUy6lrEfq9bI1T6IngxlDPSZxJNhCfEeRGubCiE4aAh5U8P8HAQ#productsReviewBoxTitle)
 
 (2) New mounting point for fixed side of actuator that will be secure enough to withstand the force of the actuator. 
 
