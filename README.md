@@ -88,6 +88,15 @@ Propsed connection steps:
 
 **Note:** The fixed-point mounting is highly susceptible to movement and is not entirely secure - therefore a mounting reinforcement piece must be designed. The piece must attach to a stable location/set of points and be large enough to extend to the mounting point of interest.
 
+## Reinforced Fixed Point ##
+
+Since the fixed point on the snowmobile was not a sturdy enough mounting position, a piece was designed in SolidWorks that reinforces the fixed point and allows for the actuator to be mounted properly. 
+
+![mountingassembly](https://user-images.githubusercontent.com/23239868/28939320-e354ea68-785e-11e7-8412-dab4e8e0f32f.JPG)
+![mountingassembly2](https://user-images.githubusercontent.com/23239868/28939321-e36cc246-785e-11e7-90f3-a83f087015bc.JPG)
+![mountingassembly3](https://user-images.githubusercontent.com/23239868/28939322-e37fd3ae-785e-11e7-8756-69e5331239ec.JPG)
+
+
 ## Future Considerations ##
 
 (1) A new motor shield must be purchased since the power draw of the actuator is too large for the current motor shield and therefore will be severely limited in its pushing/pulling capabilities. The optimal choice for a new motor shield is: [Motor Controller](http://www.robotshop.com/en/cytron-13a-5-30v-single-dc-motor-controller.html?gclid=Cj0KEQjwp83KBRC2kev0tZzExLkBEiQAYxYXOmDaUy6lrEfq9bI1T6IngxlDPSZxJNhCfEeRGubCiE4aAh5U8P8HAQ#productsReviewBoxTitle)
