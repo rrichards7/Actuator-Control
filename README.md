@@ -82,7 +82,7 @@ Propsed connection steps:
 
 (2) connect the fixed end of the actuator to bolt openning on the base of the snowmobile
 
-<img src="https://user-images.githubusercontent.com/23239868/28729334-1faa4248-739a-11e7-972e-6ab14b889610.JPG" height="480" width="640">
+
 
 <img src="https://user-images.githubusercontent.com/23239868/28729378-422f7ce8-739a-11e7-9463-ea7f0e1efdbb.JPG" height="480" width="640">
 
@@ -92,10 +92,13 @@ Propsed connection steps:
 
 Since the fixed point on the snowmobile was not a sturdy enough mounting position, a piece was designed in SolidWorks that reinforces the fixed point and allows for the actuator to be mounted properly. 
 
-![mountingassembly](https://user-images.githubusercontent.com/23239868/28939320-e354ea68-785e-11e7-8412-dab4e8e0f32f.JPG)![img_0126](https://user-images.githubusercontent.com/23239868/28939650-fbe2c5cc-785f-11e7-94f2-d8ed90c8f4ea.JPG)
-![mountingassembly2](https://user-images.githubusercontent.com/23239868/28939321-e36cc246-785e-11e7-90f3-a83f087015bc.JPG)
-![mountingassembly3](https://user-images.githubusercontent.com/23239868/28939322-e37fd3ae-785e-11e7-8756-69e5331239ec.JPG)
+![2](https://user-images.githubusercontent.com/23239868/28940209-ed8467cc-7861-11e7-868f-9be553d95182.JPG)
 
+<img src="https://user-images.githubusercontent.com/23239868/28940144-b2d5887c-7861-11e7-8bbc-b678257913ff.JPG" height="480" width="640">
+
+![mountingassembly2](https://user-images.githubusercontent.com/23239868/28939321-e36cc246-785e-11e7-90f3-a83f087015bc.JPG)
+<img src="https://user-images.githubusercontent.com/23239868/28939903-dc3cff48-7860-11e7-87f9-9f01d0b36aa4.JPG" height="200" width="500">
+<img src="https://user-images.githubusercontent.com/23239868/28729334-1faa4248-739a-11e7-972e-6ab14b889610.JPG" height="280" width="360">
 
 ## Future Considerations ##
 
