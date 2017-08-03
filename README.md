@@ -82,15 +82,13 @@ Propsed connection steps:
 
 (2) connect the fixed end of the actuator to bolt openning on the base of the snowmobile
 
-
-
 <img src="https://user-images.githubusercontent.com/23239868/28729378-422f7ce8-739a-11e7-9463-ea7f0e1efdbb.JPG" height="480" width="640">
 
 **Note:** The fixed-point mounting is highly susceptible to movement and is not entirely secure - therefore a mounting reinforcement piece must be designed. The piece must attach to a stable location/set of points and be large enough to extend to the mounting point of interest.
 
 ## Reinforced Fixed Point ##
 
-Since the fixed point on the snowmobile was not a sturdy enough mounting position, a mounting bracket was designed in SolidWorks which reinforces the fixed point. The snowmobile's running board has secure holes where bolts can penetrate the metal and have a stable connection. The mounting bracket extends from the running board bolt holes to the actuator fixed point. The mounting bracket is thick and can be printed in tough PLA (plastic) - lightweight but still thick enuogh to support the actuator. The bracket has a specially designed hole which accomodates the actuator pin - a sturdy piece which goes into the actuator mounting hole (rather than using a thin screw), this is evidenced in the SolidWorks pictures below.
+Since the fixed point on the snowmobile was not a sturdy enough mounting position, a mounting bracket was designed in SolidWorks which reinforces the fixed point. The snowmobile's running board has secure holes where bolts can penetrate the metal and have a stable connection. The mounting bracket extends from the running board bolt holes to the actuator fixed point. The mounting bracket is thick and can be printed in tough PLA (plastic) - lightweight but still strong enough to support the actuator. The bracket has a specially designed hole which accomodates the actuator pin - a sturdy piece which goes into the actuator mounting hole (rather than using a thin screw), this is evidenced in the SolidWorks pictures below.
 
 **Note:** All solidworks parts and the final mounting assembly can be downloaded from this GitHub repository.
 
