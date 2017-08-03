@@ -92,7 +92,7 @@ Propsed connection steps:
 
 Since the fixed point on the snowmobile was not a sturdy enough mounting position, a piece was designed in SolidWorks that reinforces the fixed point and allows for the actuator to be mounted properly. 
 
-![mountingassembly](https://user-images.githubusercontent.com/23239868/28939320-e354ea68-785e-11e7-8412-dab4e8e0f32f.JPG)
+![mountingassembly](https://user-images.githubusercontent.com/23239868/28939320-e354ea68-785e-11e7-8412-dab4e8e0f32f.JPG)![img_0126](https://user-images.githubusercontent.com/23239868/28939650-fbe2c5cc-785f-11e7-94f2-d8ed90c8f4ea.JPG)
 ![mountingassembly2](https://user-images.githubusercontent.com/23239868/28939321-e36cc246-785e-11e7-90f3-a83f087015bc.JPG)
 ![mountingassembly3](https://user-images.githubusercontent.com/23239868/28939322-e37fd3ae-785e-11e7-8756-69e5331239ec.JPG)
 
