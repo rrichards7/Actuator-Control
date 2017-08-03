@@ -90,14 +90,16 @@ Propsed connection steps:
 
 ## Reinforced Fixed Point ##
 
-Since the fixed point on the snowmobile was not a sturdy enough mounting position, a piece was designed in SolidWorks that reinforces the fixed point and allows for the actuator to be mounted properly. 
+Since the fixed point on the snowmobile was not a sturdy enough mounting position, a mounting bracket was designed in SolidWorks which reinforces the fixed point. The snowmobile's running board has secure holes where bolts can penetrate the metal and have a stable connection. The mounting bracket extends from the running board bolt holes to the actuator fixed point. The mounting bracket is thick and can be printed in tough PLA (plastic) - lightweight but still thick enuogh to support the actuator. The bracket has a specially designed hole which accomodates the actuator pin - a sturdy piece which goes into the actuator mounting hole (rather than using a thin screw), this is evidenced in the SolidWorks pictures below.
+
+**Note:** All solidworks parts and the final mounting assembly can be downloaded from this GitHub repository.
 
 ![2](https://user-images.githubusercontent.com/23239868/28940209-ed8467cc-7861-11e7-868f-9be553d95182.JPG)
 
 <img src="https://user-images.githubusercontent.com/23239868/28940144-b2d5887c-7861-11e7-8bbc-b678257913ff.JPG" height="480" width="640">
 
-![mountingassembly2](https://user-images.githubusercontent.com/23239868/28939321-e36cc246-785e-11e7-90f3-a83f087015bc.JPG)
 <img src="https://user-images.githubusercontent.com/23239868/28939903-dc3cff48-7860-11e7-87f9-9f01d0b36aa4.JPG" height="200" width="500">
+
 <img src="https://user-images.githubusercontent.com/23239868/28729334-1faa4248-739a-11e7-972e-6ab14b889610.JPG" height="280" width="360">
 
 ## Future Considerations ##
