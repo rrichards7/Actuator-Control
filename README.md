@@ -98,7 +98,7 @@ Since the fixed point on the snowmobile was not a sturdy enough mounting positio
 
 <img src="https://user-images.githubusercontent.com/23239868/28940144-b2d5887c-7861-11e7-8bbc-b678257913ff.JPG" height="480" width="640">
 
-<img src="https://user-images.githubusercontent.com/23239868/28939903-dc3cff48-7860-11e7-87f9-9f01d0b36aa4.JPG" height="200" width="500">
+<img src="https://user-images.githubusercontent.com/23239868/28939903-dc3cff48-7860-11e7-87f9-9f01d0b36aa4.JPG" height="150" width="475">
 
 <img src="https://user-images.githubusercontent.com/23239868/28729334-1faa4248-739a-11e7-972e-6ab14b889610.JPG" height="280" width="360">
 
